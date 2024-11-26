@@ -85,9 +85,14 @@ Comparison of cg04475027 between progressing and non-progressing samples
 Statistical Results:
 Summary statistics and p-values for the differential methylation analysis are included in the file cpg_sites_statistical_results.csv.
 
-Key Findings:
 
-None of the CpG sites exhibit strong evidence for differential methylation between progressing and non-progressing samples based on these results. However, cg18081940 may deserve further examination due to its relatively lower p-value compared to the others.
+CpG Site	T-Statistic	P-Value
+cg12374721	-1.3929	0.1661
+cg18081940	-1.6760	0.0962
+cg04475027	-0.1902	0.8494
+Observations:
+CpG site cg18081940 shows the most promising difference between progressing and non-progressing groups, with a p-value close to the threshold for significance (p = 0.0962).
+Other CpG sites (cg12374721 and cg04475027) did not show statistically significant differences at α = 0.05.
 
 Code for EDA: The analysis code is included in the repository as eda.py.
 
