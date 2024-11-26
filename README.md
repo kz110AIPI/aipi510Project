@@ -73,14 +73,14 @@ The box plots below compare the methylation levels of progressing and non-progre
 
 
 Comparison of cg12374721 between progressing and non-progressing samples
-![Image Description](https://drive.google.com/uc?export=view&id=1Ropvx-1XLfDMqsBY6Q2jjR3rKuwkFU7s)
+![Figure 1](Figure_1.png)
 
 
 Comparison of cg18081940 between progressing and non-progressing samples
-![Image Description](https://drive.google.com/uc?export=view&id=1A8buRelY2yVvd13-kTXDcgvN2ioEvnSY)
+![Figure 1](Figure_2.png)
 
 Comparison of cg04475027 between progressing and non-progressing samples
-![Image Description](https://drive.google.com/uc?export=view&id=1S0tMThM3sVe8sLPpuK9RNNTnKJomlEqf)
+![Figure 1](Figure_3.png)
 
 Statistical Results:
 Summary statistics and p-values for the differential methylation analysis are included in the file cpg_sites_statistical_results.csv.
@@ -106,6 +106,10 @@ The data sourcing and processing code are publicly available in the following re
 This repository contains:
 - Scripts for raw data acquisition from public databases.
 - Pipelines for data preprocessing, normalization, and feature extraction.
+
+## Pitch Video
+
+https://drive.google.com/file/d/1Kgg7587f6-vLxI4l2HxjdSd9PWGkPkjU/view?usp=drive_link
 
 ## Please run code with this order:
 
